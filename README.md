@@ -1,7 +1,0 @@
-# landcover_spring2026
-
-We summarize land cover change in the Baltimore Metropolitan Area.
-
-We will advance both his data science skills and subject matter expertise jointly. Specifically, we will use Jupyter Notebooks shared via the version management system called github to analyze land cover change in Baltimore, MD. The Chesapeake Conservancy has generated freely available high-quality, high-resolution land cover change for the entire Bay (https://www.chesapeakeconservancy.org/projects/cbp-land-use-land-cover-data-project). The goal is to first generate useful summaries of land cover, and specifically tree canopy change, for managers in the Recreation and Parks Department, Office of Sustainability, Department of Planning, the Maryland State Forester, among others. This serves two goals: first, it provides actionable insights that would otherwise not be available to resource-limited staff. Secondly, it serves to familiarize Mr. Maddox with the amount, type, and scale of changes in the region. Next, Mr. Maddox will develop land cover change models to predict where and what types of changes are likely to happen next.
-
-We already possess the needed data. Together we have designed this project to develop skills, create tangible products (e.g. datasets, code, presentations, and/or a short report), and provide useful information to agencies and organizations seeking this information.
